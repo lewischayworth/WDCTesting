@@ -1,4 +1,4 @@
-# WDC For Tableau
+# WDC
 Repo Website: https://lewischayworth.github.io/WDCTesting/
 #
 WDC List:
